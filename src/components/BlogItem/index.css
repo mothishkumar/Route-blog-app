@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.item-image {
+  height: 150px;
+  width: 250px;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+}
+.item-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  padding: 10px;
+}
+.author-info {
+  display: flex;
+  flex-direction: row;
+}
+.avatar {
+  border-radius: 13px;
+  margin-top: 10px;
+}
+.author-name {
+  color: #8e8e8e;
+  padding: 5px;
+  margin-bottom: 3px;
+}
+.item-topic {
+  color: #8e8e8e;
+}
+.item-title {
+  color: #000000;
+}
+.item-info {
+  margin-left: 30px;
+}

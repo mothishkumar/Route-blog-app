@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.blog-image {
+  height: 350px;
+  width: 70vw;
+}
+.author-pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 20px;
+}
+.author-details {
+  display: flex;
+  flex-direction: row;
+}
+.blog-details-title {
+  text-align: center;
+}
+.blog-info {
+  margin-left: 50px;
+}
+.details-author-name {
+  margin-left: 10px;
+  color: black;
+  font-style: Roboto;
+  font-weight: bold;
+}
+.blog-content {
+  font-size: 20px;
+}
